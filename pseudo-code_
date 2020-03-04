@@ -1,6 +1,0 @@
-DEBUT 
-  Afficher “Entrez un nombre” et demander une entrée à l’utilisateur
-  Affecter cette entrée à la variable n
-     Faire la boucle suivante n fois:
-          Afficher "Bienvenue à la Wild"
-FIN
